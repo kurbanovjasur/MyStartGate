@@ -1,0 +1,10 @@
+//Tab1
+export const STAR_GATE_HOME = 'STAR_GATE_HOME'
+export const STAR_GATE_DETAILS = 'STAR_GATE_DETAILS'
+//Tab2
+export const BATMAN_HOME = 'BATMAN_HOME'
+export const BATMAN_DETAILS = 'BATMAN_DETAILS'
+//Tab3
+export const SPIDER_MAN_HOME = 'SPIDER_MAN_HOME'
+export const SPIDER_MAN_DETAILS = 'SPIDER_MAN_DETAILS'
+
